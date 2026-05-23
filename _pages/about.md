@@ -37,12 +37,12 @@ Welcome! I am an Associate Professor in [Business Analytics](https://mendoza.nd.
 
 ##### **Research interests**
 
-I am broadly interested in statistical methodologies and theories in change-point analysis, online learning, copula, time series and extreme value theory, and their applications in revenue management, risk modeling, and insurance pricing.
+I am broadly interested in statistical methodologies and theories in **change-point analysis, online learning, copula, time series and extreme value theory**, and their applications in **revenue management, risk modeling, and insurance pricing**.
 
 ##### **Editorial services**
 
-- Associate Editor (2025-present): Journal of Business & Economic Statistics
-- Associate Editor (2024-present): Statistical Theory and Related Fields
-- Editorial Board of Reviewers (2025-present): Journal of Machine Learning Research
+- Associate Editor (2025-present): <span style="color: var(--global-theme-color);">Journal of Business & Economic Statistics</span>
+- Associate Editor (2024-present): <span style="color: var(--global-theme-color);">Statistical Theory and Related Fields</span>
+- Editorial Board of Reviewers (2025-present): <span style="color: var(--global-theme-color);">Journal of Machine Learning Research</span>
 
 <!--_Last updated: 10/2025_-->
