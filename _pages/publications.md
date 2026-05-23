@@ -2,14 +2,15 @@
 layout: page
 permalink: /research/
 title: research
-description: Research interests, selected preprints, publications, and funding.
+# description: Research interests, selected preprints, publications, and funding.
 nav: true
 nav_order: 2
+hide_title: true
 ---
 
 ## Selected Preprints
 
-See also my [Google Scholar profile](https://scholar.google.com/citations?user=9_jTYJgAAAAJ&hl=en).
+[Google Scholar profile](https://scholar.google.com/citations?user=9_jTYJgAAAAJ&hl=en).
 
 - Y. He, L. Peng, D. Zhang, Z. Zhao. Uniform inference for central and tail distributions with censored data, in submission. [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5073490)]
 - Y. Ma, F. Jiang, Z. Zhao, H. Yang, Y. Yu. Locally private nonparametric contextual multi-armed bandits with transfer learning, under major revision at JASA. [[paper](https://arxiv.org/abs/2503.08098)]

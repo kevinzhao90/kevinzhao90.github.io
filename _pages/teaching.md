@@ -2,9 +2,10 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Teaching experience and recognition.
+# description: Teaching experience and recognition.
 nav: true
 nav_order: 3
+hide_title: true
 ---
 
 ## University of Notre Dame

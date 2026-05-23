@@ -2,9 +2,10 @@
 layout: page
 permalink: /biography/
 title: biography
-description: Academic biography and professional experience.
+# description: Academic biography and professional experience.
 nav: true
 nav_order: 1
+hide_title: true
 ---
 
 ## Experience

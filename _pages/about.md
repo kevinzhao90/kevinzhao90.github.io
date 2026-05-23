@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor, Business Analytics, Mendoza College of Business, University of Notre Dame
+# subtitle: Associate Professor, Business Analytics, Mendoza College of Business, University of Notre Dame
 
 profile:
   align: right
@@ -14,7 +14,7 @@ profile:
     <p>Email: zifeng.zhao 'at' nd.edu</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -27,9 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<!--
 ### Zifeng Zhao
 
 ### 赵子锋
+-->
 
 Welcome! I am an Associate Professor in [Business Analytics](https://mendoza.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/). I am also a Concurrent Faculty in [Statistics](https://acms.nd.edu/) at the University of Notre Dame.
 
@@ -43,4 +45,4 @@ I am broadly interested in statistical methodologies and theories in change-poin
 - Associate Editor (2024-present): Statistical Theory and Related Fields
 - Editorial Board of Reviewers (2025-present): Journal of Machine Learning Research
 
-_Last updated: 10/2025_
+<!--_Last updated: 10/2025_-->
