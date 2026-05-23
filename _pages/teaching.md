@@ -2,14 +2,24 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Teaching experience and recognition.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 3
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## University of Notre Dame
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+- ITAO30220: Predictive Analytics (Undergraduate)
+- ITAO70220: Predictive Analytics (MBA)
+- ITAO70200: Advanced Statistical Inference (MBA, MSBA)
 
-{% include courses.liquid %}
+## Awards & Recognition
+
+- MSBA Outstanding Graduate Teacher Award 2022
+
+## University of Wisconsin - Madison
+
+- STAT849: Theory and Application of Regression and Analysis
+- STAT301: Introduction to Statistical Methods for Business
+- STAT309: Introduction to Probability and Mathematical Statistics
+- STAT371: Introductory Applied Statistics for Life Sciences
