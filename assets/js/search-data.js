@@ -11,21 +11,21 @@ ninja.data = [{
     },
   },{id: "nav-biography",
           title: "biography",
-          description: "Academic biography and professional experience.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/biography/";
           },
         },{id: "nav-research",
           title: "research",
-          description: "Research interests, selected preprints, publications, and funding.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Teaching experience and recognition.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
