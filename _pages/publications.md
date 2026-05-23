@@ -8,9 +8,7 @@ nav_order: 2
 hide_title: true
 ---
 
-## Selected Preprints
-
-[Google Scholar profile](https://scholar.google.com/citations?user=9_jTYJgAAAAJ&hl=en).
+##### **Selected Preprints** [(Google Scholar)](https://scholar.google.com/citations?user=9_jTYJgAAAAJ&hl=en)
 
 - Y. He, L. Peng, D. Zhang, Z. Zhao. Uniform inference for central and tail distributions with censored data, in submission. [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5073490)]
 - Y. Ma, F. Jiang, Z. Zhao, H. Yang, Y. Yu. Locally private nonparametric contextual multi-armed bandits with transfer learning, under major revision at JASA. [[paper](https://arxiv.org/abs/2503.08098)]
@@ -18,7 +16,7 @@ hide_title: true
 - D. Wang, Z. Zhao. Optimal change-point testing for high-dimensional linear models with temporal dependence. [[paper](https://arxiv.org/abs/2205.03880?context=stat.TH)]
 - Z. Zhao, L. Chen, L. Lin. Change-point detection in dynamic networks via graphon estimation. [[paper](https://arxiv.org/abs/1908.01823)]
 
-## Publications
+##### **Publications**
 
 - [27] F. Ekbatani, O. Yilmaz, Z. Zhao, R. Wang, A. Vakhutinsky (2026+). Data-driven pricing for availability-based upgrades under a multiple binary choice model with copula. _Manufacturing and Service Operations Management._ [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4960767)] Finalist, 2025 M&SOM Practice-Based Research Competition.
 - [26] C. Ke, R. Wang, Z. Zhao (2026+). Discrete choice models with piecewise linear utility: modeling, estimation and pricing. _Manufacturing and Service Operations Management._ [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4394213)]
@@ -48,7 +46,7 @@ hide_title: true
 - [2] C.Y. Yau, Z. Zhao (2016). Inference for multiple change-points in time series via likelihood ratio scan statistics. _Journal of the Royal Statistical Society - Series B._ [[paper](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12139)]
 - [1] K. West, Z. Zhao (2016). Regressor and disturbance have moments of all order, least squares estimator has none. _Statistics & Probability Letters._ [[paper](https://www.sciencedirect.com/science/article/pii/S0167715216300207)]
 
-## Fundings
+##### **Fundings**
 
 - NSF DMS-2014053 (PI)
 - Oracle Labs (PI)

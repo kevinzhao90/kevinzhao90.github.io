@@ -35,11 +35,11 @@ latest_posts:
 
 Welcome! I am an Associate Professor in [Business Analytics](https://mendoza.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/). I am also a Concurrent Faculty in [Statistics](https://acms.nd.edu/) at the University of Notre Dame.
 
-### Research interests
+##### **Research interests**
 
 I am broadly interested in statistical methodologies and theories in change-point analysis, online learning, copula, time series and extreme value theory, and their applications in revenue management, risk modeling, and insurance pricing.
 
-### Editorial services
+##### **Editorial services**
 
 - Associate Editor (2025-present): Journal of Business & Economic Statistics
 - Associate Editor (2024-present): Statistical Theory and Related Fields
