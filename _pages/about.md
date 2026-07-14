@@ -33,7 +33,7 @@ latest_posts:
 ### 赵子锋
 -->
 
-Welcome! I am an Associate Professor in [Business Analytics](https://mendoza.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/). I am also a Concurrent Faculty in [Statistics](https://acms.nd.edu/) at the University of Notre Dame.
+Welcome! I am a Robert and Sara Lumpkins Associate Professor of [Business Analytics](https://mendoza.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/). I am also a Concurrent Faculty in [Statistics](https://acms.nd.edu/) at the University of Notre Dame.
 
 ##### **Research interests**
 
@@ -45,4 +45,4 @@ I am broadly interested in statistical methodologies and theories in **change-po
 - Associate Editor (2024-present): <span style="color: var(--global-theme-color);">Statistical Theory and Related Fields</span>
 - Editorial Board of Reviewers (2025-present): <span style="color: var(--global-theme-color);">Journal of Machine Learning Research</span>
 
-<!--_Last updated: 10/2025_-->
+<!--_Last updated: 02/2026_-->

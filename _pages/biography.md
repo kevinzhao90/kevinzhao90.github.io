@@ -10,7 +10,7 @@ hide_title: true
 
 ##### **Experience**
 
-- 2025 - present: **Associate Professor in Business Analytics**, Mendoza College of Business, University of Notre Dame
+- 2025 - present: **Robert and Sara Lumpkins Associate Professor in Business Analytics**, Mendoza College of Business, University of Notre Dame
 - 2018 - 2025: Assistant Professor in Business Analytics, Mendoza College of Business, University of Notre Dame
 - 2018 - present: Concurrent **Faculty in Statistics**, Department of Applied and Computational Mathematics and Statistics, University of Notre Dame
 - Apr 2023: **Visiting Scholar**, ORFE, Princeton University (Host: Prof. **Jianqing Fan**)
